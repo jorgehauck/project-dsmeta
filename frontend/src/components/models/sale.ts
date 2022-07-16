@@ -5,4 +5,4 @@ export type Sale = {
     visited: number;
     deals: number;
     amount: number;
-}
+}  
