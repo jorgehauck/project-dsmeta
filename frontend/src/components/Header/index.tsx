@@ -9,9 +9,9 @@ function Header() {
           <img src={logo} alt="DSMeta" />
           <h1>DSMeta</h1>
           <p>
-            Desenvolvido por
+            Desenvolvido por 
             <a href="https://www.linkedin.com/in/jorgehauck/">
-              José Jorge Hauck Júnior
+               José Jorge Hauck Júnior
             </a>
           </p>
         </div>
